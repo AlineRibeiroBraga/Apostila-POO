@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exercicios-Apostila.iml" filepath="$PROJECT_DIR$/Exercicios-Apostila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capitulo14_exceptions.iml" filepath="$PROJECT_DIR$/capitulo14_exceptions.iml" />
     </modules>
   </component>
 </project>
